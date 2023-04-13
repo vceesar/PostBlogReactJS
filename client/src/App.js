@@ -12,7 +12,7 @@ function App() {
       
       <Router>
 
-        <div className="titulo"><h1>Aplicação - Teste para Estágio Voxus</h1></div>
+        <div className="titulo"><h1>Aplicação - Teste para Estágio Voxus - Teste mudanca master</h1></div>
         <div className="navbar">
           <Link to="/">Voltar para a Home</Link>
           <Link to="/createpost">Criar um novo Post</Link> 
